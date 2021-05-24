@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="left">Hi there, I'm Luiz <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<!--
-**lmodenez/lmodenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">A Web Developer from Brazil 🌐</h3>
 
-Here are some ideas to get you started:
+- 👨‍🎓 I'm graduated in Information Systems.
+- 💻 I'm currently working on Starplast.
+- 📚 Enthusiast of the web & mobile technologies.
+- 🌱 I'm currently learning React and React Native.
+- 🤓 Passionate about changing people's lives through programming.
+- ⚡ Curiosity: I love ride motorcycle on weekends!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Pedro-0c63a7?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lmodenez/)](https://www.linkedin.com/in/lmodenez/) 
+[![Gmail Badge](https://img.shields.io/badge/-lmodenez98@gmail.com-0c63a7?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lmodenez98@gmail.com)](mailto:lmodenez98@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/@luizmodenez-0c63a7?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://instagram.com/_luizmodenez)](https://instagram.com/_luizmodenez) 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmodenez&layout=compact)](https://github.com/lmodenez/github-readme-stats)
+
+
