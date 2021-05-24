@@ -1,7 +1,5 @@
 <h1 align="left">Hi there, I'm Luiz <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<h3 align="left">A Web Developer from Brazil 🌐</h3>
-
 - 👨‍🎓 I'm graduated in Information Systems.
 - 💻 I'm currently working on Starplast.
 - 📚 Enthusiast of the web & mobile technologies.
