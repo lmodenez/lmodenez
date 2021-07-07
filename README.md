@@ -13,22 +13,20 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_luizmodenez) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmodenez&layout=compact)](https://github.com/lmodenez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmodenez&layout=compact&theme=dracula)](https://github.com/lmodenez/github-readme-stats)
 
 
 <h2 align="left">Technologies and Tools</h2>
 
 
+![React Badge](https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=react&logoColor=white)
+![Angular Badge](https://img.shields.io/badge/Angular-1572B6?style=for-the-badge&logo=angular&logoColor=white)
+![Material Badge](https://img.shields.io/badge/Material--UI-1572B6?style=for-the-badge&logo=material-ui&logoColor=white)
+![Styled Badge](https://img.shields.io/badge/styled--components-1572B6?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Html Badge](https://img.shields.io/badge/HTML5-1572B6?style=for-the-badge&logo=html5&logoColor=white)
 ![Css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-1572B6?style=for-the-badge&logo=javascript&logoColor=white)
 ![Typescript Badge](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
-![React Badge](https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular Badge](https://img.shields.io/badge/Angular-1572B6?style=for-the-badge&logo=angular&logoColor=white)
-![Styled Badge](https://img.shields.io/badge/styled--components-1572B6?style=for-the-badge&logo=styled-components&logoColor=white)
-![Material Badge](https://img.shields.io/badge/Material--UI-1572B6?style=for-the-badge&logo=material-ui&logoColor=white)
-
-
 
 ![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP Badge](https://img.shields.io/badge/PHP-43853D?style=for-the-badge&logo=php&logoColor=white)
