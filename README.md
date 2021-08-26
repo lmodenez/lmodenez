@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Luiz <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 - 👨‍🎓 I'm graduated in Information Systems.
-- 💻 I'm currently working on Starplast.
+- 💻 I'm currently working on Pecege.
 - 📚 Enthusiast of the web & mobile technologies.
 - 🌱 I'm currently learning React and React Native.
 - 🤓 Passionate about changing people's lives through programming.
