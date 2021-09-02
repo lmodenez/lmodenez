@@ -3,7 +3,7 @@
 - 👨‍🎓 I'm graduated in Information Systems.
 - 💻 I'm currently working on Pecege.
 - 📚 Enthusiast of the web & mobile technologies.
-- 🌱 I'm currently learning React and React Native.
+- 🌱 I'm currently learning Angular and React Native.
 - 🤓 Passionate about changing people's lives through programming.
 - ⚡ Curiosity: I love ride motorcycle on weekends!
 
