@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmodenez&layout=compact&theme=dracula)](https://github.com/lmodenez/github-readme-stats)
 
-:hammer_and_wrench: Languages and Tools :
+<h1> :hammer_and_wrench: Languages and Tools : </h1>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
