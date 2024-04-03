@@ -29,7 +29,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" **alt="Swagger" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-<h1> 🏆 Daily.dev </h1>
-
-<a href="https://app.daily.dev/lmodenez"><img src="https://api.daily.dev/devcards/v2/MnM2Rpr4lje44B24hefWQ.png?type=default&r=0v1" width="356" alt="Luiz Pedro Modenez's Dev Card"/></a>
